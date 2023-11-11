@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Atan0707
-- 👀 I’m interested in blockchain and website development
-- 🌱 I’m currently learning php and react
+- 👋 Hi, I’m Hariz Hakim a.k.a Atan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
