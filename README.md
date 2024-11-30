@@ -25,8 +25,11 @@
 
 <p align="left">
 - I just love building something and learning new stuff 😂
+  
 - Especially building on blockchain. Web3.0 with IoT is what excite me the most. I wonder how people will adopt blockchain, not only for the cryptocurrencies.
+  
 - Checkout my <a href="https://devfolio.co/@Atan" target="_blank">Devfolio</a>
+
 - Also my <a href="https://next-portfolio-khaki-beta.vercel.app/">Portfolio</a>
 </p>
 
