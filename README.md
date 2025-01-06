@@ -25,6 +25,7 @@
 
 <p align="left">
 - Exploring blockhain and IoT
+  
 - Checkout my <a href="https://devfolio.co/@Atan" target="_blank">Devfolio</a>
 - Also my <a href="https://next-portfolio-khaki-beta.vercel.app/">Portfolio</a>
 </p>
