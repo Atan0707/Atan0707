@@ -26,8 +26,6 @@
 <p align="left">
 - IoT and blockchain enjoyer
   
-- I play dota only on Sunday (cheat day)
-  
 - Checkout my <a href="https://devfolio.co/@Atan" target="_blank">Devfolio</a>
 - Also my <a href="https://next-portfolio-khaki-beta.vercel.app/">Portfolio</a>
 </p>
