@@ -11,5 +11,5 @@
 <p align="left">
   
 - IoT and blockchain enjoyer
-- Checkout my <a href="https://devfolio.co/@Atan" target="_blank">Devfolio</a> and my <a href="https://next-portfolio-khaki-beta.vercel.app/">Portfolio</a>
+- Checkout my <a href="https://devfolio.co/@Atan" target="_blank">Devfolio</a> and my <a href="https://hrzhkm.xyz/">Portfolio</a>
 </p>
